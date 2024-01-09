@@ -1,0 +1,235 @@
+
+Allegro ReadCSV Code
+
+
+
+using System;
+using System.Data;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Web.Services;
+using System.Linq;
+using Allegro;
+using Allegro.Core.ClassEvents;
+using Allegro.Core.Config;
+using Allegro.Core.Criteria;
+using Allegro.Core.DataModel;
+using Allegro.Core.Extensions;
+using Allegro.Core.Logging;
+using Allegro.Core.Utils;
+using Allegro.Core.Server.Data;
+using Allegro.Core.Server.Grid;
+using Allegro.Core.Server.ClassEvents;
+using Allegro.Core.Server.Reflection;
+using Allegro.Core.Server.Serialization;
+using Allegro.Core.Cache.Deprecated;
+using Domain = Allegro.Core.ClassEvents.Domain;
+using System.IO;
+using System.Text;
+using Newtonsoft.Json;
+using System.Reflection;
+using Microsoft.VisualBasic.FileIO;
+using CsvHelper;
+using CsvHelper.Configuration;
+using System.Globalization;
+
+namespace Allegro.ClassEvents
+{
+    [WebService(Namespace = CoreConfig.Namespace, Name = "ShippersBalanceWS")]
+    public class ShippersBalanceWS : Allegro.Web.BaseWebService
+    {
+        private static IAllegroLogger log = AllegroLoggerManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
+        /* ShippersBalance_ImportCSVData
+        Shippers Balance - ReadCSVData */
+        [WebMethod(Description = "ImportCSV")]
+        public void ImportCSV()
+        {
+            /******************************************************************************
+            NAME:  Invoice Automation - ReadCSVFile
+            
+            PURPOSE/DESCRIPTION/NOTES:    Shippers Balance - ReadCSVFile
+            
+            REVISIONS:
+            Ver        Date        Author           Description
+            ---------  ----------  ---------------  ------------------------------------
+            1.0        12/11/2023  VeritasTS        Shippers Balance - ReadCSVFile
+            ---------  ----------  ---------------  ------------------------------------
+            *********************************************************************************/
+
+            /*const string const_Pipeline = "pipeline";
+            const string const_Month = "month";
+            const string const_Status = "status";
+            const string const_updatedDate = "updateddate";
+            const string const_Shipper = "shipper";
+            const string const_materialName = "materialname";
+            const string const_materialCode = "materialcode";
+            const string const_recordType = "recordtype";
+            const string const_batchID = "batchid";
+            const string const_nominationMonth = "nominationmonth";
+            const string const_transactionDate = "transactiondate";
+            const string const_custodyLocation = "custodylocation";
+            const string const_connectedFacility = "connectedfacility";
+            const string const_volume = "volume";*/
+	    const string const_Validation = "Validation";
+
+
+            try
+            {
+                //processLog.AddProcessLog("Shippers Balance", "Shippers Balance", DateTime.Now, ClassEvents.ProcessLog.StatusProcess.RUNNING);
+                //processLog.AddProcessLogDetail("Shippers Balance", "Start Process");
+
+                GridLogger.Log("Shippers Balance", "Start Process", DateTime.Now.ToString());
+                string sourceFolder = Allegro.Core.Config.ConfigManager.Configs["ShippersCSVFilePath"].ConfigValue;
+
+                //DbHelper.ExecuteScalar("select configvalue from userconfig where configkey = 'ShippersCSVFilePath' and userid = 'Server.Config'").ToString();
+                //processLog.AddProcessLogDetail("Shippers Balance", "Read CSV from " + sourceFolder + " file path");
+                GridLogger.Log("Shippers Balance", "Read CSV from " + sourceFolder + " file path", DateTime.Now.ToString());
+
+                DbAdapter da = new DbAdapter();
+                //DataSet mappingDS = new DataSet();
+                DataTable colMap = new DataTable("shipperscolmapping");
+                DataTable shipBalance = new DataTable("shippersbalance_tbl");
+
+                // Extracting the column mapping for invoices
+                string columnSQL = "SELECT allegrocolumnname,shipperscolumnname FROM shipperscolmapping";
+                da.Fill(colMap, columnSQL);
+                da.Fill(shipBalance, "SELECT * FROM shippersbalance_tbl WHERE 1 = 0");
+
+
+                foreach (var header in colMap.AsEnumerable().Select(r => r.Field<string>("shipperscolumnname")))
+                {
+                    shipBalance.Columns.Add(header);
+                }
+
+                //List<string> columnNames = colMap.Columns.Cast<DataColumn>().Select(column => column.ColumnName).ToList();
+
+                // Get all files in the source folder
+                string[] files = Directory.GetFiles(sourceFolder);
+
+                List<string> headers = files[0].Split(',').Select(h => h.Trim()).ToList();
+
+                List<Root> rootObjects = new List<Root>();
+
+                //string InvoiceHeaderSurrogate = DbSysGen.GetUniqueID("shippersbalance_tbl", "surrogate", "", "", 1);
+
+                for (int i = 1; i < files.Length; i++)
+                {
+                    string[] data = files[i].Split(',');
+
+                    Root root = new Root
+                    {
+                        key_value_pairs = new List<KeyValuePair>()
+                    };
+
+                    foreach (var header in headers)
+                    {
+                        KeyValuePair kvp = new KeyValuePair
+                        {
+                            key = header,
+                            value = data[headers.IndexOf(header)].Trim()
+                        };
+
+                        root.key_value_pairs.Add(kvp);
+                    }
+
+                    rootObjects.Add(root);
+                }
+
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    conn.Open();
+
+                    DataTable shipBalance = new DataTable();
+
+                    foreach (var kvp in program.dbTable.AsEnumerable())
+                    {
+                        string allegroColumnName = kvp.Field<string>("allegrocolumnname");
+                        if (!shipBalance.Columns.Contains(allegroColumnName))
+                        {
+                            //shipBalance.Columns.Add(allegroColumnName, typeof(string));
+			      shipBalance.Columns.Add("Pipeline", typeof(string));
+                              shipBalance.Columns.Add("Month", typeof(string));
+                              shipBalance.Columns.Add("Status", typeof(string));
+                              shipBalance.Columns.Add("Updated Date", typeof(string));
+                              shipBalance.Columns.Add("Shipper", typeof(string));
+                              shipBalance.Columns.Add("Material Name", typeof(string));
+                              shipBalance.Columns.Add("Material Code", typeof(string));
+                              shipBalance.Columns.Add("Record Type", typeof(string));
+                              shipBalance.Columns.Add("Batch Id", typeof(string));
+                              shipBalance.Columns.Add("Nomination Month", typeof(string));
+                              shipBalance.Columns.Add("Transaction Date", typeof(string));
+                              shipBalance.Columns.Add("Custody Location", typeof(string));
+                              shipBalance.Columns.Add("Connected Facility", typeof(string));
+                              shipBalance.Columns.Add("Volume (m3)", typeof(string));
+                              shipBalance.Columns.Add(const_Validation, typeof(string));
+                        }
+                    }
+
+                    using (SqlBulkCopy bulkCopy = new SqlBulkCopy(conn))
+                    {
+                        bulkCopy.DestinationTableName = "shippersbalance_tbl";
+
+
+                        bulkCopy.ColumnMappings.Add("Pipeline", "pipeline");
+                        bulkCopy.ColumnMappings.Add("Month", "month");
+			bulkCopy.ColumnMappings.Add("Status", "status");
+                        bulkCopy.ColumnMappings.Add("Updated Date", "updateddate");
+                        bulkCopy.ColumnMappings.Add("Shipper", "shipper");
+                        bulkCopy.ColumnMappings.Add("Material Name", "materialname");
+                        bulkCopy.ColumnMappings.Add("Material Code", "materialcode");
+                        bulkCopy.ColumnMappings.Add("Record Type", "recordtype");
+                        bulkCopy.ColumnMappings.Add("Batch ID", "batchId");
+                        bulkCopy.ColumnMappings.Add("Nomination Month", "nominationmonth");
+                        bulkCopy.ColumnMappings.Add("Transaction Date", "transactiondate");
+                        bulkCopy.ColumnMappings.Add("Custody Location", "custodylocation");
+                        bulkCopy.ColumnMappings.Add("Connected Facility", "connectedfacility");
+                        bulkCopy.ColumnMappings.Add("Volume (m3)", "volume");
+			bulkCopy.ColumnMappings.Add(const_Validation, "validation");
+
+
+                        foreach (var root in rootObjects)
+                        {
+
+			   StringBuilder Validation = new StringBuilder();
+                           bool atleastOneError = false;
+                           Validation.Clear();
+
+                            DataRow newRow = shipBalance.NewRow();
+
+                            foreach (var header in headers)
+                            {
+                                string value = root.key_value_pairs.FirstOrDefault(x => x.key == header)?.value ?? string.Empty;
+				if (string.IsNullOrEmpty(value))
+                            	{
+                                	Validation.Append($"{header} info not received. ");
+                                	atleastOneError = true;
+                            	}
+                                newRow[header] = value;
+                            }
+
+				newRow[const_Validation] = atleastOneError ? Validation.ToString() : "Success";
+
+                            shipBalance.Rows.Add(newRow);
+                        }
+                        bulkCopy.WriteToServer(shipBalance);
+                    }
+
+                    shipBalance.Clear();
+
+                    conn.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+                //throw new Exception("Error while reading CSV file: " + ex.Message);
+
+            }
+        }
+
+
+    }
+}
+
+
+

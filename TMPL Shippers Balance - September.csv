@@ -1,0 +1,444 @@
+Pipeline,Month,Status,Updated Date,Shipper,Material Name,Material Code,Record Type,Batch Id,Nomination Month,Transaction Date,Custody Location,Connected Facility,Volume (m3)
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Access Western Blend,AWB,Opening Balance,,,,,,1837.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Access Western Blend,AWB,Closing Balance,,,,,,1837.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Access Western Blend,AWB,Closing Inventory,,,,,,1837.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Access Western Blend,AWB,Over/Short,,,,,,-1837.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Opening Balance,,,,,,64754.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/15/2023 12:35,Edmonton ,Cold Lake Pipeline-EDM,1371.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/15/2023 12:36,Edmonton ,Cold Lake Pipeline-EDM,1949
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/16/2023 19:48,Edmonton ,Cold Lake Pipeline-EDM,1634.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/16/2023 19:47,Edmonton ,Cold Lake Pipeline-EDM,1544.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/16/2023 19:47,Edmonton ,Cold Lake Pipeline-EDM,1905.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/17/2023 22:21,Edmonton ,Cold Lake Pipeline-EDM,1638.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/17/2023 22:21,Edmonton ,Cold Lake Pipeline-EDM,1549.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/17/2023 22:21,Edmonton ,Cold Lake Pipeline-EDM,1901.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/18/2023 14:21,Edmonton ,Cold Lake Pipeline-EDM,1640.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/18/2023 14:21,Edmonton ,Cold Lake Pipeline-EDM,1550.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/18/2023 14:21,Edmonton ,Cold Lake Pipeline-EDM,1909.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,1905.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,1548.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,1638.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 22:42,Edmonton ,Cold Lake Pipeline-EDM,1544.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 22:42,Edmonton ,Cold Lake Pipeline-EDM,1903.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/20/2023 22:42,Edmonton ,Cold Lake Pipeline-EDM,1635.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/21/2023 16:30,Edmonton ,Cold Lake Pipeline-EDM,636.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/21/2023 16:30,Edmonton ,Cold Lake Pipeline-EDM,674
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/21/2023 16:30,Edmonton ,Cold Lake Pipeline-EDM,783.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,0.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,0.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 7:02,Edmonton ,Cold Lake Pipeline-EDM,0.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 9:25,Edmonton ,Cold Lake Pipeline-EDM,681
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 9:25,Edmonton ,Cold Lake Pipeline-EDM,643.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/22/2023 9:26,Edmonton ,Cold Lake Pipeline-EDM,792.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/23/2023 11:19,Edmonton ,Cold Lake Pipeline-EDM,679
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/23/2023 11:19,Edmonton ,Cold Lake Pipeline-EDM,642.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/23/2023 11:18,Edmonton ,Cold Lake Pipeline-EDM,790.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/24/2023 8:53,Edmonton ,Cold Lake Pipeline-EDM,641.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/24/2023 8:53,Edmonton ,Cold Lake Pipeline-EDM,678.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/24/2023 8:53,Edmonton ,Cold Lake Pipeline-EDM,790.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/25/2023 11:39,Edmonton ,Cold Lake Pipeline-EDM,636.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/25/2023 11:39,Edmonton ,Cold Lake Pipeline-EDM,672.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/25/2023 11:39,Edmonton ,Cold Lake Pipeline-EDM,782.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/26/2023 17:12,Edmonton ,Cold Lake Pipeline-EDM,634
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/26/2023 17:12,Edmonton ,Cold Lake Pipeline-EDM,780.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/26/2023 17:12,Edmonton ,Cold Lake Pipeline-EDM,670.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/27/2023 10:43,Edmonton ,Cold Lake Pipeline-EDM,662.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/27/2023 10:42,Edmonton ,Cold Lake Pipeline-EDM,700.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/27/2023 10:43,Edmonton ,Cold Lake Pipeline-EDM,815.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/28/2023 11:31,Edmonton ,Cold Lake Pipeline-EDM,632.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/28/2023 11:30,Edmonton ,Cold Lake Pipeline-EDM,668.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/28/2023 11:30,Edmonton ,Cold Lake Pipeline-EDM,778.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/29/2023 10:33,Edmonton ,Cold Lake Pipeline-EDM,278.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/29/2023 10:33,Edmonton ,Cold Lake Pipeline-EDM,294.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/29/2023 10:33,Edmonton ,Cold Lake Pipeline-EDM,342.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/30/2023 8:01,Edmonton ,Cold Lake Pipeline-EDM,279
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/30/2023 8:01,Edmonton ,Cold Lake Pipeline-EDM,295.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Receipts,170923,,9/30/2023 8:01,Edmonton ,Cold Lake Pipeline-EDM,344.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Deliveries,17230,08-01-2023 00:00,09-07-2023 12:21,Burnaby,Westridge Dock,28316.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Deliveries,17230,08-01-2023 00:00,09-07-2023 12:21,Burnaby,Westridge Dock,33515.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-37.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Closing Balance,,,,,,50363.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Closing Inventory,,,,,,50363.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Volume in Transit,,,,,,48235.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Cold Lake,CL,Over/Short,,,,,,-2128
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Transfers In,,,10/17/2023 13:50,Manual Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Suncor Energy Marketing Inc.; Comments: Transmix,930.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17490,08-01-2023 00:00,09-01-2023 18:09,Burnaby,CRUD Unit,49.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,89.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,117.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,240
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,109.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,67.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,49.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-0.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Adjustments,,,,Regrade Adjustment,Regrade from DLS to MSW,-206.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Diesel Low Sulphur,DLS,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Transfers In,,,10/17/2023 13:50,Manual Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Suncor Energy Marketing Inc.; Comments: Transmix,5254.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Transfers In,,,10/17/2023 13:50,Manual Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Imperial Oil Limited (Strathcona); Comments: Transmix,1295.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17490,08-01-2023 00:00,09-01-2023 18:09,Burnaby,CRUD Unit,180.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17500,08-01-2023 00:00,09-02-2023 23:30,Burnaby,SPLT Unit,97.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,96
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17520,08-01-2023 00:00,09-04-2023 23:18,Burnaby,SPLT Unit,350.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17530,08-01-2023 00:00,09-05-2023 18:33,Burnaby,CRUD Unit,346.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17540,08-01-2023 00:00,09-06-2023 23:23,Burnaby,SPLT Unit,179.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17560,08-01-2023 00:00,09-09-2023 05:21,Burnaby,SPLT Unit,162
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17570,08-01-2023 00:00,09-09-2023 18:15,Burnaby,CRUD Unit,289.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,236.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,251.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,136.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,206.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17730,09-01-2023 00:00,09-12-2023 23:27,Burnaby,SPLT Unit,180.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,172.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,59.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,12.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,1.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17760,09-01-2023 00:00,9/15/2023 20:59,Burnaby,CRUD Unit,50.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17550,08-01-2023 00:00,09-07-2023 18:08,Burnaby,CRUD Unit,290
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,190.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,16.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,508.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17800,09-01-2023 00:00,9/19/2023 20:01,Burnaby,CRUD Unit,194.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17810,09-01-2023 00:00,9/20/2023 23:42,Burnaby,SPLT Unit,393.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17840,09-01-2023 00:00,9/23/2023 19:44,Burnaby,CRUD Unit,239.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17850,09-01-2023 00:00,9/24/2023 23:07,Burnaby,SPLT Unit,90.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,19870,09-01-2023 00:00,9/22/2023 23:14,Burnaby,SPLT Unit,189.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,179.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,25.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17860,09-01-2023 00:00,9/25/2023 19:19,Burnaby,CRUD Unit,161.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17880,09-01-2023 00:00,9/27/2023 23:17,Burnaby,CRUD Unit,215.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,571.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,154.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,86
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17890,09-01-2023 00:00,9/29/2023 0:10,Burnaby,SPLT Unit,463.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,23
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,46.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,67.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,41
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,30.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-4.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Adjustments,,,,Regrade Adjustment,Regrade from G85B to MSW,662.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Adjustments,,,,Shrinkage,System entered due to apply (shrinkage).,-17.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Gasoline Ethanol Blend Burnaby,G85B,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Receipts,1620923,,10-01-2023 06:59,Edmonton ,Pembina Horizon Pipeline,415
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Transfers In,,,10/17/2023 13:50,Nomination Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Canadian Natural Resources Limited; Comments: System entered due to download (nom transfers).,9906.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Adjustments,,,,Regrade Adjustment,Regrade from CNS to SYN,-10321.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic,CNS,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Receipts,7,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,6784.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Receipts,14,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,3202.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Adjustments,,,,Regrade Adjustment,Regrade from CNST to SYNT,-9986.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Horizon Synthetic BTT,CNST,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Opening Balance,,,,,,36666.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Prior Month Inventory Settlement,,,,,,322.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17490,08-01-2023 00:00,09-01-2023 18:09,Burnaby,CRUD Unit,1308.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,1136.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17530,08-01-2023 00:00,09-05-2023 18:33,Burnaby,CRUD Unit,999.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17570,08-01-2023 00:00,09-09-2023 18:15,Burnaby,CRUD Unit,837.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,78.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,83.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,192.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,291.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17730,09-01-2023 00:00,09-12-2023 23:27,Burnaby,SPLT Unit,957.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,749.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,258.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,1500.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,208.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17550,08-01-2023 00:00,09-07-2023 18:08,Burnaby,CRUD Unit,837.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,1270.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17800,09-01-2023 00:00,9/19/2023 20:01,Burnaby,CRUD Unit,1462.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17820,09-01-2023 00:00,9/21/2023 20:47,Burnaby,CRUD Unit,1490.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17840,09-01-2023 00:00,9/23/2023 19:44,Burnaby,CRUD Unit,1440.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17860,09-01-2023 00:00,9/25/2023 19:19,Burnaby,CRUD Unit,1482.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17880,09-01-2023 00:00,9/27/2023 23:17,Burnaby,CRUD Unit,1977.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,689.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,186.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,103.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17230,08-01-2023 00:00,09-07-2023 12:21,Burnaby,Westridge Dock,13325.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17230,08-01-2023 00:00,09-07-2023 12:21,Burnaby,Westridge Dock,15772
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,164.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,335
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,458.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,279.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,206.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-30.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Adjustments,,,,Regrade Adjustment,Regrade from CNS to SYN,10321.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Adjustments,,,,Regrade Adjustment,Regrade from SSP to SYN,11131.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Adjustments,,,,Shrinkage,System entered due to apply (shrinkage).,-10.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Closing Balance,,,,,,8315.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Closing Inventory,,,,,,8315.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Working Stock,,,,,,770.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Volume in Transit,,,,,,6362
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic,SYN,Over/Short,,,,,,-1183.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Opening Balance,,,,,,12632.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Prior Month Inventory Settlement,,,,,,782.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17500,08-01-2023 00:00,09-02-2023 23:30,Burnaby,SPLT Unit,2318.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,151
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17520,08-01-2023 00:00,09-04-2023 23:18,Burnaby,SPLT Unit,2248.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17530,08-01-2023 00:00,09-05-2023 18:33,Burnaby,CRUD Unit,327.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17540,08-01-2023 00:00,09-06-2023 23:23,Burnaby,SPLT Unit,2251.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17560,08-01-2023 00:00,09-09-2023 05:21,Burnaby,SPLT Unit,2036.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17570,08-01-2023 00:00,09-09-2023 18:15,Burnaby,CRUD Unit,519
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,1176.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,1250
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,468.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,711.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17730,09-01-2023 00:00,09-12-2023 23:27,Burnaby,SPLT Unit,1199
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,406.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,140.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,251.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,35.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17760,09-01-2023 00:00,9/15/2023 20:59,Burnaby,CRUD Unit,1796.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17550,08-01-2023 00:00,09-07-2023 18:08,Burnaby,CRUD Unit,519.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,2110.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,184.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,132.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17810,09-01-2023 00:00,9/20/2023 23:42,Burnaby,SPLT Unit,2277.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17850,09-01-2023 00:00,9/24/2023 23:07,Burnaby,SPLT Unit,2326.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,19870,09-01-2023 00:00,9/22/2023 23:14,Burnaby,SPLT Unit,2310.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,1835.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,229.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,1292.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,305.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,147.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17890,09-01-2023 00:00,9/29/2023 0:10,Burnaby,SPLT Unit,2254
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,363.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,740.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,479.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,292.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,215.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-21.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Manual Adjustment,Reverse PPA Batch 17280,-300.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Prior Period Adjustment,System entered due to download (prior period adjustments (deliveries - batch: 17280 prior period: Aug 2023)).,300.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Regrade Adjustment,Regrade from CNST to SYNT,9986.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Regrade Adjustment,Regrade from PAST to SYNT,9986.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Regrade Adjustment,Regrade from SSPT to SYNT,10288.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Adjustments,,,,Shrinkage,System entered due to apply (shrinkage).,-1.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Closing Balance,,,,,,8347.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Closing Inventory,,,,,,8347.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Working Stock,,,,,,876.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Volume in Transit,,,,,,6778.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Light Synthetic BTT,SYNT,Over/Short,,,,,,-692.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Opening Balance,,,,,,26.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Prior Month Inventory Settlement,,,,,,-26.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Adjustments,,,,Regrade Adjustment,Regrade from PCSR to MSR,5031.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Closing Balance,,,,,,5031.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Closing Inventory,,,,,,5031.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sour Blend (TMPL),MSR,Volume in Transit,,,,,,5031.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Opening Balance,,,,,,30511.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Prior Month Inventory Settlement,,,,,,2232.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17490,08-01-2023 00:00,09-01-2023 18:09,Burnaby,CRUD Unit,5172.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17500,08-01-2023 00:00,09-02-2023 23:30,Burnaby,SPLT Unit,649.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,4771.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17520,08-01-2023 00:00,09-04-2023 23:18,Burnaby,SPLT Unit,263.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17530,08-01-2023 00:00,09-05-2023 18:33,Burnaby,CRUD Unit,4075
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17540,08-01-2023 00:00,09-06-2023 23:23,Burnaby,SPLT Unit,134.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17560,08-01-2023 00:00,09-09-2023 05:21,Burnaby,SPLT Unit,122
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17570,08-01-2023 00:00,09-09-2023 18:15,Burnaby,CRUD Unit,3411.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,11.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,12.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,648.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,984
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17730,09-01-2023 00:00,09-12-2023 23:27,Burnaby,SPLT Unit,3452.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,2960.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,1022.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,5954.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,829.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17550,08-01-2023 00:00,09-07-2023 18:08,Burnaby,CRUD Unit,3414.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,5129.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17800,09-01-2023 00:00,9/19/2023 20:01,Burnaby,CRUD Unit,5829.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,19680,08-01-2023 00:00,9/18/2023 5:11,Burnaby,Westridge Dock,23126.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,19680,08-01-2023 00:00,9/18/2023 5:11,Burnaby,Westridge Dock,533
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17820,09-01-2023 00:00,9/21/2023 20:47,Burnaby,CRUD Unit,6000.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17840,09-01-2023 00:00,9/23/2023 19:44,Burnaby,CRUD Unit,5806.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17860,09-01-2023 00:00,9/25/2023 19:19,Burnaby,CRUD Unit,5840
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17880,09-01-2023 00:00,9/27/2023 23:17,Burnaby,CRUD Unit,7788.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,2709.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,733.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,407.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,652.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,1329.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,1809
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,1103.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,813.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-64.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Regrade Adjustment,Regrade from DLS to MSW,206.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Regrade Adjustment,Regrade from G85B to MSW,-662.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Regrade Adjustment,Regrade from PCR to MSW,31828.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Regrade Adjustment,Regrade from PEM to MSW,53546.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Regrade Adjustment,Regrade from PNC to MSW,24653.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Adjustments,,,,Shrinkage,System entered due to apply (shrinkage).,-18.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Closing Balance,,,,,,34729.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Closing Inventory,,,,,,34729.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Working Stock,,,,,,2985.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Volume in Transit,,,,,,25361.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend (TMPL),MSW,Over/Short,,,,,,-6382.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Opening Balance,,,,,,45951.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Prior Month Inventory Settlement,,,,,,-2395.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17490,08-01-2023 00:00,09-01-2023 18:09,Burnaby,CRUD Unit,77
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17500,08-01-2023 00:00,09-02-2023 23:30,Burnaby,SPLT Unit,6915.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17510,08-01-2023 00:00,09-03-2023 18:08,Burnaby,CRUD Unit,544.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17520,08-01-2023 00:00,09-04-2023 23:18,Burnaby,SPLT Unit,7118.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17530,08-01-2023 00:00,09-05-2023 18:33,Burnaby,CRUD Unit,1122.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17540,08-01-2023 00:00,09-06-2023 23:23,Burnaby,SPLT Unit,7317.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17560,08-01-2023 00:00,09-09-2023 05:21,Burnaby,SPLT Unit,6617.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17570,08-01-2023 00:00,09-09-2023 18:15,Burnaby,CRUD Unit,1755.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,3722.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17710,09-01-2023 00:00,09-11-2023 01:16,Burnaby,SPLT Unit,3956.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,1530
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17720,09-01-2023 00:00,09-11-2023 20:00,Burnaby,CRUD Unit,2321.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17730,09-01-2023 00:00,09-12-2023 23:27,Burnaby,SPLT Unit,3902.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,1274.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17740,09-01-2023 00:00,9/13/2023 19:23,Burnaby,CRUD Unit,440.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,780.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17750,09-01-2023 00:00,9/14/2023 23:02,Burnaby,SPLT Unit,108.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17760,09-01-2023 00:00,9/15/2023 20:59,Burnaby,CRUD Unit,5632.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17550,08-01-2023 00:00,09-07-2023 18:08,Burnaby,CRUD Unit,1757.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,6603.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17770,09-01-2023 00:00,9/16/2023 23:23,Burnaby,SPLT Unit,576
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,433.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17810,09-01-2023 00:00,9/20/2023 23:42,Burnaby,SPLT Unit,6683.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17850,09-01-2023 00:00,9/24/2023 23:07,Burnaby,SPLT Unit,6899.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,19870,09-01-2023 00:00,9/22/2023 23:14,Burnaby,SPLT Unit,6846.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,6318
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,912.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,3937.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,1065.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,592.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17890,09-01-2023 00:00,9/29/2023 0:10,Burnaby,SPLT Unit,6693.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,1052.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,2142.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,1402.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,855.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,630.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-66.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Adjustments,,,,Regrade Adjustment,Regrade from PCRT to MSWT,85286.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Adjustments,,,,Regrade Adjustment,Regrade from PEMT to MSWT,3833.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Adjustments,,,,Regrade Adjustment,Regrade from RBWT to MSWT,2874.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Adjustments,,,,Shrinkage,System entered due to apply (shrinkage).,-0.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Closing Balance,,,,,,24945.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Closing Inventory,,,,,,24945.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Working Stock,,,,,,2166.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Volume in Transit,,,,,,19540.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Mixed Sweet Blend BTT,MSWT,Over/Short,,,,,,-3238.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/26/2023 15:11,Edmonton ,Peace Pipeline,2004.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/26/2023 17:49,Edmonton ,Peace Pipeline,1232.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/27/2023 14:23,Edmonton ,Peace Pipeline,756
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/27/2023 17:08,Edmonton ,Peace Pipeline,945.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/27/2023 17:08,Edmonton ,Peace Pipeline,862.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 4:49,Edmonton ,Peace Pipeline,2494.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 4:49,Edmonton ,Peace Pipeline,2747.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 7:01,Edmonton ,Peace Pipeline,810.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 7:01,Edmonton ,Peace Pipeline,736
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 18:07,Edmonton ,Peace Pipeline,1143.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/28/2023 18:07,Edmonton ,Peace Pipeline,1043.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/29/2023 14:12,Edmonton ,Peace Pipeline,3289.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/29/2023 14:12,Edmonton ,Peace Pipeline,2980.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/29/2023 17:27,Edmonton ,Peace Pipeline,0.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/29/2023 17:27,Edmonton ,Peace Pipeline,1106.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/29/2023 17:27,Edmonton ,Peace Pipeline,1215.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/30/2023 7:03,Edmonton ,Peace Pipeline,3588.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/30/2023 7:03,Edmonton ,Peace Pipeline,3265
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,9/30/2023 16:19,Edmonton ,Peace Pipeline,0.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Receipts,820923,,10-01-2023 06:19,Edmonton ,Peace Pipeline,1606.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Adjustments,,,,Regrade Adjustment,Regrade from PCR to MSW,-31828.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River,PCR,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/17/2023 16:54,Edmonton ,Peace Pipeline,235.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/17/2023 16:54,Edmonton ,Peace Pipeline,967.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/18/2023 7:05,Edmonton ,Peace Pipeline,375.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/18/2023 7:05,Edmonton ,Peace Pipeline,339.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/18/2023 9:29,Edmonton ,Peace Pipeline,1283.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Receipts,830923,,9/19/2023 7:33,Edmonton ,Peace Pipeline,1830.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Adjustments,,,,Regrade Adjustment,Regrade from PCSR to MSR,-5031.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace River - Sour,PCSR,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace Sweet BTT,PCRT,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace Sweet BTT,PCRT,Receipts,11,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,85286.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace Sweet BTT,PCRT,Adjustments,,,,Regrade Adjustment,Regrade from PCRT to MSWT,-85286.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace Sweet BTT,PCRT,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Peace Sweet BTT,PCRT,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/24/2023 7:00,Edmonton ,Pembina Pipeline-EDM,103.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/24/2023 17:03,Edmonton ,Pembina Pipeline-EDM,1725.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/24/2023 17:02,Edmonton ,Pembina Pipeline-EDM,1740.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/24/2023 22:21,Edmonton ,Pembina Pipeline-EDM,963.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/24/2023 22:21,Edmonton ,Pembina Pipeline-EDM,974.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/25/2023 7:03,Edmonton ,Pembina Pipeline-EDM,1002.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/25/2023 7:03,Edmonton ,Pembina Pipeline-EDM,1012.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/26/2023 7:00,Edmonton ,Pembina Pipeline-EDM,3714
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/26/2023 7:00,Edmonton ,Pembina Pipeline-EDM,3746.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/26/2023 9:23,Edmonton ,Pembina Pipeline-EDM,840.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/26/2023 9:23,Edmonton ,Pembina Pipeline-EDM,847.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/27/2023 7:03,Edmonton ,Pembina Pipeline-EDM,2857.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/27/2023 7:03,Edmonton ,Pembina Pipeline-EDM,2885.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/27/2023 10:31,Edmonton ,Pembina Pipeline-EDM,1244.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/27/2023 10:31,Edmonton ,Pembina Pipeline-EDM,1255.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/28/2023 4:59,Edmonton ,Pembina Pipeline-EDM,2654.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Receipts,840923,,9/28/2023 4:59,Edmonton ,Pembina Pipeline-EDM,944.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Transfers In,,,10/17/2023 13:50,Nomination Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Shell Trading Canada; Comments: System entered due to download (nom transfers).,25033.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Adjustments,,,,Regrade Adjustment,Regrade from PEM to MSW,-53546.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina,PEM,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina BTT,PEMT,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina BTT,PEMT,Receipts,10,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,3833.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina BTT,PEMT,Adjustments,,,,Regrade Adjustment,Regrade from PEMT to MSWT,-3833.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina BTT,PEMT,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina BTT,PEMT,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina North Crude,PNC,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina North Crude,PNC,Transfers In,,,10/17/2023 13:50,Nomination Transfers,In Shipper:  Parkland Refining (B.C.) LTD.; Out Shipper: Shell Trading Canada; Comments: System entered due to download (nom transfers).,24653.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina North Crude,PNC,Adjustments,,,,Regrade Adjustment,Regrade from PNC to MSW,-24653.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina North Crude,PNC,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina North Crude,PNC,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Receipts,9,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,3833
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17780,09-01-2023 00:00,9/17/2023 19:37,Burnaby,CRUD Unit,19.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17810,09-01-2023 00:00,9/20/2023 23:42,Burnaby,SPLT Unit,330.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17850,09-01-2023 00:00,9/24/2023 23:07,Burnaby,SPLT Unit,364.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,19870,09-01-2023 00:00,9/22/2023 23:14,Burnaby,SPLT Unit,331.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,129.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17790,09-01-2023 00:00,9/18/2023 23:20,Burnaby,SPLT Unit,54.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,74.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,64.6
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,18010,09-01-2023 00:00,9/27/2023 4:29,Burnaby,SPLT Unit,58.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17890,09-01-2023 00:00,9/29/2023 0:10,Burnaby,SPLT Unit,260.1
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,93.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17900,09-01-2023 00:00,9/29/2023 19:15,Burnaby,CRUD Unit,189.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,93
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,56.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Deliveries,17910,09-01-2023 00:00,10-01-2023 06:59,Burnaby,SPLT Unit,41.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Adjustments,,,,Loss Allowance,System entered due to apply (loss allowance).,-1.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Closing Balance,,,,,,1669.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Closing Inventory,,,,,,1669.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Pembina Peace Super Light BTT,PSLT,Volume in Transit,,,,,,1669.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Premium Albain Synthetic BTT,PAST,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Premium Albain Synthetic BTT,PAST,Receipts,13,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,9986.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Premium Albain Synthetic BTT,PAST,Adjustments,,,,Regrade Adjustment,Regrade from PAST to SYNT,-9986.3
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Premium Albain Synthetic BTT,PAST,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Premium Albain Synthetic BTT,PAST,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Rainbow BTT,RBWT,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Rainbow BTT,RBWT,Receipts,8,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,2874.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Rainbow BTT,RBWT,Adjustments,,,,Regrade Adjustment,Regrade from RBWT to MSWT,-2874.7
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Rainbow BTT,RBWT,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Rainbow BTT,RBWT,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Receipts,2740923,,9/17/2023 16:09,Edmonton ,AOSPL Pipeline,3374.2
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Receipts,2740923,,9/18/2023 2:28,Edmonton ,AOSPL Pipeline,3936.8
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Receipts,2740923,,9/19/2023 6:21,Edmonton ,AOSPL Pipeline,3625
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Receipts,2740923,,9/20/2023 7:02,Edmonton ,AOSPL Pipeline,195.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Adjustments,,,,Regrade Adjustment,Regrade from SSP to SYN,-11131.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude,SSP,Closing Inventory,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Opening Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Receipts,6,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,2907.5
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Receipts,12,,10-01-2023 06:59,Edmonton ,Baseline Tank Terminal,7381.4
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Adjustments,,,,Regrade Adjustment,Regrade from SSPT to SYNT,-10288.9
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Closing Balance,,,,,,0
+Trans Mountain Pipe Line,09-01-2023 00:00,Final,10/17/2023 14:44,Parkland Refining (B.C.) LTD.,Syncrude BTT,SSPT,Closing Inventory,,,,,,0
